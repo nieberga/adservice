@@ -1,0 +1,5 @@
+applications:
+- name: nielei-adservice
+  path: target/cnj-advertising-service-0.1.0-SNAPSHOT.jar
+  instances: 1
+  memory: 800M
